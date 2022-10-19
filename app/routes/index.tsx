@@ -57,7 +57,7 @@ export default function Index() {
                   <Td>{index + 1}</Td>
                   <Td>
                     <Link
-                      href={contributor.url}
+                      href={contributor.html_url}
                       target="_blank"
                       display="flex"
                       alignItems="center"
