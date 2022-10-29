@@ -46,7 +46,7 @@ export default function Index() {
           <Thead>
             <Tr>
               <Th>S.No</Th>
-              <Th>Name</Th>
+              <Th>Username</Th>
               <Th isNumeric>Score</Th>
             </Tr>
           </Thead>
